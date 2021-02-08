@@ -3,7 +3,7 @@ This is my public portfolio for Telling Stories with Data (Spring 2021) at CMU.
 
 # About Me
 Jackson Smith
-he/him/his
+(he/him/his)
 
 I am currently in my second year of the Master of Arts Management program and expect to graduate in May 2021. Before coming to the program, I earned my Bachelor's degree at the University of Colorado - Boulder in Finance and Theatre. Following graduation from CU, I moved back home to Minnesota and got a job working as a theatre company for about 4 years.
 After graduating from CMU, I am hoping to work my way towards being a Managing Director for a theatre company. I want to bring my love of numbers and love of theatre together to help an organization survive and thrive.
